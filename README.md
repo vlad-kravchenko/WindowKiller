@@ -1,0 +1,2 @@
+# WindowKiller
+Simple window killer
